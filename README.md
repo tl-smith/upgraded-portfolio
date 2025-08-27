@@ -43,8 +43,8 @@ The design uses gradient headings, card-style sections, and responsive layouts t
 
 ## Screenshots
 
-![Homepage Screenshot](public/screenshot1.png)
-![About Screenshot](public/screenshot2.png)
-![Skills Screenshot](public/screenshot3.png)
-![Projects Screenshot](public/screenshot4.png)
-![Contact Screenshot](public/screenshot5.png)
+![Homepage Screenshot](src/assets/Screenshot1.png)
+![About Screenshot](src/assets/Screenshot2.png)
+![Skills Screenshot](src/assets/Screenshot3.png)
+![Projects Screenshot](src/assets/Screenshot4.png)
+![Contact Screenshot](src/assets/Screenshot5.png)
